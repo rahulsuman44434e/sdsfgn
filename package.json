@@ -1,0 +1,9 @@
+{
+  "name": "apples-24x7care-service",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "vercel dev",
+    "build": "vercel build",
+    "deploy": "vercel deploy"
+  }
+}
